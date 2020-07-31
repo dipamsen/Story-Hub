@@ -2,7 +2,7 @@
   "expo": {
     "name": "The Story Hub",
     "slug": "BedTimeStories",
-    "version": "0.2",
+    "version": "1.0",
     "orientation": "portrait",
     "icon": "./assets/iccon.png",
     "splash": {
