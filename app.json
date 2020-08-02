@@ -1,0 +1,29 @@
+{
+  "expo": {
+    "name": "The Story Hub",
+    "slug": "BedTimeStories",
+    "version": "2.0",
+    "orientation": "portrait",
+    "icon": "./assets/iccon.png",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "android": {
+      "package": "com.dipam.whjr_storyhub"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "web": {
+      "favicon": "./assets/iccon.png"
+    }
+  }
+}
