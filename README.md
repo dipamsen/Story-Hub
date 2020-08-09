@@ -7,3 +7,4 @@ Source code for Story Reading/Writing App. Created in React Native / Expo
 - [x] [C70 Design and Writing story](https://github.com/dipamsen/Story-Hub/tree/C70-Story-Hub-1) (v1)
 - [x] [C71 Database](https://github.com/dipamsen/Story-Hub/tree/C71-Story-Hub-2) (v2)
 - [x] [C72 KeyboardAvoiding](https://github.com/dipamsen/Story-Hub/tree/C72-Story-Hub-3) (v3)
+- [x] [C73 Search Function](https://github.com/dipamsen/Story-Hub/tree/C73-Story-Hub-4) (v4)
